@@ -1,6 +1,7 @@
 # Environments 
 .env 
 .ballenv
+ballenv
 .venv 
 env/ 
 venv/ 
