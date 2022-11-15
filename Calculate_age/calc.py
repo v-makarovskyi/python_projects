@@ -42,6 +42,3 @@ day = day + localtime.tm_mday
 print("%s имеее возраст: %d лет или " % (name, year), end="")
 print("%d месяцев или %d дней" % (month, day))
 
-#seconds = time.time()
-#local_time = time.localtime(seconds)
-#print(local_time.tm_year)
